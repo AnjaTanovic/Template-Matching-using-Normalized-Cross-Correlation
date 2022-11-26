@@ -1,0 +1,4 @@
+xcrg -report_format html -dir $root_dir/uvm_project/cross_correlation.sim/sim_1/behav/xsim/xsim.covdb -report_dir $root_dir/coverage
+
+na linuxu ce mozda morati 
+exec xcrg...
